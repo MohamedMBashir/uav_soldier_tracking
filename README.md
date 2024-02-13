@@ -1,9 +1,7 @@
 # Object Tracking
 
-<p float="left">
-  <img src="https://i.imgur.com/3hhtlRz.jpeg" width="400" height="450"/>
-  <img src="https://i.imgur.com/OPN5oNV.jpeg" width="400" height="450"/> 
-</p>
+<img src="https://i.imgur.com/3hhtlRz.jpeg"/>
+<img src="https://i.imgur.com/OPN5oNV.jpeg"/> 
 
 ## Overview
 
